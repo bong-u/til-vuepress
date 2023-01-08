@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "vuepress": "2.0.0-beta.45"
   },
