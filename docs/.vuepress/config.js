@@ -1,4 +1,4 @@
-import { defineUserConfig, defaultTheme } from "vuepress";
+import { defaultTheme } from "vuepress";
 import { readdirSync, statSync } from "fs";
 
 const baseDir = "docs/";
