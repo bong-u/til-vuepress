@@ -6,6 +6,7 @@ export const pagesRoutes = [
   ["v-452a1eb8","/22-2/SYSP_12_13.html",{"title":"221208 SYSP"},["/22-2/SYSP_12_13","/22-2/SYSP_12_13.md"]],
   ["v-44f1a220","/Algorithm/BOJ_1010.html",{"title":""},["/Algorithm/BOJ_1010","/Algorithm/BOJ_1010.md"]],
   ["v-0b0a2fdb","/Algorithm/BOJ_10844.html",{"title":""},["/Algorithm/BOJ_10844","/Algorithm/BOJ_10844.md"]],
+  ["v-67189a60","/Algorithm/BOJ_11048.html",{"title":""},["/Algorithm/BOJ_11048","/Algorithm/BOJ_11048.md"]],
   ["v-dfe62d70","/Algorithm/BOJ_11051.html",{"title":""},["/Algorithm/BOJ_11051","/Algorithm/BOJ_11051.md"]],
   ["v-dc7c7c32","/Algorithm/BOJ_11052.html",{"title":""},["/Algorithm/BOJ_11052","/Algorithm/BOJ_11052.md"]],
   ["v-cb6c05fc","/Algorithm/BOJ_11057.html",{"title":""},["/Algorithm/BOJ_11057","/Algorithm/BOJ_11057.md"]],

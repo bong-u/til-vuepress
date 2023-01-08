@@ -15,6 +15,8 @@ export const pagesComponents = {
   "v-44f1a220": defineAsyncComponent(() => import(/* webpackChunkName: "v-44f1a220" */"/home/bongu/til/docs/.vuepress/.temp/pages/Algorithm/BOJ_1010.html.vue")),
   // path: /Algorithm/BOJ_10844.html
   "v-0b0a2fdb": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b0a2fdb" */"/home/bongu/til/docs/.vuepress/.temp/pages/Algorithm/BOJ_10844.html.vue")),
+  // path: /Algorithm/BOJ_11048.html
+  "v-67189a60": defineAsyncComponent(() => import(/* webpackChunkName: "v-67189a60" */"/home/bongu/til/docs/.vuepress/.temp/pages/Algorithm/BOJ_11048.html.vue")),
   // path: /Algorithm/BOJ_11051.html
   "v-dfe62d70": defineAsyncComponent(() => import(/* webpackChunkName: "v-dfe62d70" */"/home/bongu/til/docs/.vuepress/.temp/pages/Algorithm/BOJ_11051.html.vue")),
   // path: /Algorithm/BOJ_11052.html

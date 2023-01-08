@@ -1,4 +1,4 @@
-import { defaultTheme } from "vuepress";
+import { defaultTheme } from "@vuepress/theme-default";
 import { readdirSync, statSync } from "fs";
 
 const baseDir = "docs/";
@@ -17,7 +17,7 @@ const getFile = (dirName) => {
   });
 };
 
-export default {
+module.exports = {
   title: "BONG-U's TIL",
   head: [["link", { rel: "icon", href: "/avata.png" }]],
   theme: defaultTheme({
