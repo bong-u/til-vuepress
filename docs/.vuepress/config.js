@@ -17,7 +17,7 @@ const getFile = (dirName) => {
   });
 };
 
-module.exports = {
+export default {
   title: "BONG-U's TIL",
   head: [["link", { rel: "icon", href: "/avata.png" }]],
   theme: defaultTheme({
