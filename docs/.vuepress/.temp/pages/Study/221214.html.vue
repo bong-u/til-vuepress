@@ -1,0 +1,804 @@
+<template><div><h3 id="금품수수-금지" tabindex="-1"><a class="header-anchor" href="#금품수수-금지" aria-hidden="true">#</a> 금품수수 금지</h3>
+<ul>
+<li>식사비(3만원)</li>
+<li>선물(5만원)</li>
+<li>경조사비(5만원) -&gt; 결혼, 장례만</li>
+<li>금품(10만원)</li>
+</ul>
+<h3 id="저작권법" tabindex="-1"><a class="header-anchor" href="#저작권법" aria-hidden="true">#</a> 저작권법</h3>
+<ul>
+<li>무행동방식주의 (우리나라의 저작권법)</li>
+<li>방식주의</li>
+<li>저작인격권
+<ul>
+<li>공표권, 성명표시권, 동일성 유지권</li>
+</ul>
+</li>
+<li>저작재산권
+<ul>
+<li>복제권, 공여권, 공중송신권, 전시권, 배포권, 대여권, 2차적 저작물 작성권</li>
+</ul>
+</li>
+<li>저작인접권</li>
+</ul>
+<h3 id="국민-연금-보험" tabindex="-1"><a class="header-anchor" href="#국민-연금-보험" aria-hidden="true">#</a> 국민 연금 보험</h3>
+<ul>
+<li>죽을때까지 지급되는 연금상품, 의무 가입</li>
+<li>보험료는 소득의 9%</li>
+</ul>
+<h3 id="예산-생활" tabindex="-1"><a class="header-anchor" href="#예산-생활" aria-hidden="true">#</a> 예산 생활</h3>
+<ul>
+<li>가처분 소득 = 총 소득 - 비소비지출 (세금, 국민연금, 건강보험)</li>
+<li>예산 : 일정 기간 동안의 기대 수입에 기초한 지출 계획</li>
+</ul>
+<h3 id="크라우드-펀딩" tabindex="-1"><a class="header-anchor" href="#크라우드-펀딩" aria-hidden="true">#</a> 크라우드 펀딩</h3>
+<ul>
+<li>리워드형, 기부형, 대출형, 투자형</li>
+</ul>
+<h3 id="사회적-기업" tabindex="-1"><a class="header-anchor" href="#사회적-기업" aria-hidden="true">#</a> 사회적 기업</h3>
+<ul>
+<li>영리기업과 비영리 기업의 중간형태</li>
+<li>일자리제공형, 사회서비스 제공형, 혼합형, 지역사회공헌형, 기타형</li>
+</ul>
+<h3 id="smart-경청법" tabindex="-1"><a class="header-anchor" href="#smart-경청법" aria-hidden="true">#</a> SMART 경청법</h3>
+<ul>
+<li>주제, 출처, 주장, 반응, 특색</li>
+</ul>
+<h3 id="포도주-라벨이-있는거" tabindex="-1"><a class="header-anchor" href="#포도주-라벨이-있는거" aria-hidden="true">#</a> 포도주 라벨이 있는거</h3>
+<ul>
+<li>와인이름, 생산지, 와이너리 이름, 양조장 설립년도, 당도</li>
+</ul>
+<h3 id="와인잔-종류" tabindex="-1"><a class="header-anchor" href="#와인잔-종류" aria-hidden="true">#</a> 와인잔 종류</h3>
+<ul>
+<li>보르도, 부르고뉴, 화이트와인잔, 스파클링와인잔</li>
+</ul>
+<h3 id="프랑스-코스요리" tabindex="-1"><a class="header-anchor" href="#프랑스-코스요리" aria-hidden="true">#</a> 프랑스 코스요리</h3>
+<ol>
+<li>아페리티프</li>
+<li>앙트레 / 오흐 되브흐</li>
+<li>쁠라 (생선 요리 / 육류 요리)</li>
+<li>프로마쥬</li>
+<li>디저트</li>
+<li>커피 / 차</li>
+</ol>
+<h3 id="동양의-매너" tabindex="-1"><a class="header-anchor" href="#동양의-매너" aria-hidden="true">#</a> 동양의 매너</h3>
+<ul>
+<li>군신유의, 부자유친, 부부유별, 장유유서, 붕우유신</li>
+</ul>
+<h3 id="직급" tabindex="-1"><a class="header-anchor" href="#직급" aria-hidden="true">#</a> 직급</h3>
+<ul>
+<li>사장 -&gt; 전무 -&gt; 이사 -&gt; 부장 -&gt; 차장 -&gt; 과장 -&gt; 대리 -&gt; 주임 -&gt; 사원</li>
+</ul>
+<h3 id="서신-소개" tabindex="-1"><a class="header-anchor" href="#서신-소개" aria-hidden="true">#</a> 서신 소개</h3>
+<ul>
+<li>소개 목적과 본인과의 관계를 밝힘</li>
+<li>개봉한 상태로 의뢰한 사람에게 전달</li>
+</ul>
+<h3 id="읍례-읍" tabindex="-1"><a class="header-anchor" href="#읍례-읍" aria-hidden="true">#</a> 읍례 (읍)</h3>
+<ul>
+<li>공수한 손을 올리는 것</li>
+</ul>
+<h3 id="여성의-큰절" tabindex="-1"><a class="header-anchor" href="#여성의-큰절" aria-hidden="true">#</a> 여성의 큰절</h3>
+<ol>
+<li>공수</li>
+<li>공수한 손을 어깨 위로 올린다 고개를 숙여서 이마를 손등에 붙인다</li>
+<li>천천히 앉으면서 왼쪽 무릎을 먼저 꿇는다</li>
+<li>오른발위에 왼발을 포갠다</li>
+<li>엉덩이를 깊게 내려 앉는다</li>
+<li>몸을 45도 굽힌다</li>
+<li>오른쪽 무릎부터 일어난다</li>
+<li>절이 끝나면 손을 내린다</li>
+<li>굴신례 15도</li>
+</ol>
+<h3 id="여성의-평절" tabindex="-1"><a class="header-anchor" href="#여성의-평절" aria-hidden="true">#</a> 여성의 평절</h3>
+<ol>
+<li>공수</li>
+<li>공수한 손을 풀어 양옆으로 내린다</li>
+<li>천천히 앉으면서 왼쪽 무릎을 먼저 꿇는다</li>
+<li>오른발위에 왼발</li>
+<li>손끝이 바깥을 향하도록 하여 바닥에 댄다</li>
+<li>허리를 30도 굽혔다가 펴며, 양손을 바닥에서 떼고 천천히 일어난다</li>
+<li>오른쪽 무릎부터 일어난다</li>
+<li>굴신례 30도</li>
+</ol>
+<h3 id="반절" tabindex="-1"><a class="header-anchor" href="#반절" aria-hidden="true">#</a> 반절</h3>
+<ul>
+<li>남성 : 무릎을 꿇은 상태에서 머리와 엉덩이가 수평</li>
+<li>여성 : 평절 앉은 자세까지</li>
+</ul>
+<h3 id="인도" tabindex="-1"><a class="header-anchor" href="#인도" aria-hidden="true">#</a> 인도</h3>
+<ul>
+<li>나마스테 : 나는 당신한테 인사합니다</li>
+<li>중동 : 앗사람 알라이쿰 : 평화가 당신들 위에 있기를</li>
+<li>중국 : 손 흔들기, 공수</li>
+<li>태국 : 와이 (손을 합장), 손아랫사람이 고개를 깊이숙이고 손을 높이든다, 사와디캅</li>
+</ul>
+<h3 id="출산" tabindex="-1"><a class="header-anchor" href="#출산" aria-hidden="true">#</a> 출산</h3>
+<ul>
+<li>산후조리</li>
+<li>삼칠일 (21일)동안 외부인의 방문 자제</li>
+</ul>
+<h3 id="생일-명칭" tabindex="-1"><a class="header-anchor" href="#생일-명칭" aria-hidden="true">#</a> 생일 명칭</h3>
+<ul>
+<li>20세 약관, 30세 이립, 40세 불혹, 50세 지천명, 60세 이순, 61세 환갑</li>
+<li>62세 진갑, 70세 고희, 80세 산수, 88세 미수, 90세 졸수, 100세 상수</li>
+</ul>
+<h3 id="성년의-날" tabindex="-1"><a class="header-anchor" href="#성년의-날" aria-hidden="true">#</a> 성년의 날</h3>
+<ul>
+<li>남자(관례) : 댕기머리 자르고 상투를 만든 후 갓을 씌우는 의식</li>
+<li>여자(계례) : 머리 올려 비녀를 꽂는 의식</li>
+<li>수수팥떡으로 액을 막음</li>
+</ul>
+<h3 id="전통혼례" tabindex="-1"><a class="header-anchor" href="#전통혼례" aria-hidden="true">#</a> 전통혼례</h3>
+<ol>
+<li>의혼 : 양가가 중매인을 통해 의사를 조정</li>
+<li>앞놀이 : 신부집 마당에서 분위기를 북둗우는 공연</li>
+<li>신랑입장 : 신랑이 기러기 아법과 함께 신부집으로 감</li>
+<li>전안례 : 기러기 -&gt; 신부 어머님</li>
+<li>초례청 : 신부 입장</li>
+<li>맞절 전 손 씻기</li>
+<li>교배례 맞절</li>
+<li>합근례 : 술잔과 표주박에 술을 부어 마심</li>
+</ol>
+<ul>
+<li>함 : 결혼 전날 신랑 집에서 신부 집으로 보내는 상자</li>
+<li>함진애비 : 하인이나 사람을 사서 함을 지고 감</li>
+<li>함 내용 : 오곡 주머니, 청홍채단, 혼서지(혼인문서), 물목기, 예물 등</li>
+<li>함진애비 일행을 신부 쪽 친지들과 여흥을 가짐</li>
+<li>납폐 : 신랑쪽에서 혼서와 채단, 예물을 함에 담아 보내는 것</li>
+<li>봉채떡 : 함을 받기위해 신부 집엣 준비하는 의식</li>
+</ul>
+<h3 id="현대식-결혼식" tabindex="-1"><a class="header-anchor" href="#현대식-결혼식" aria-hidden="true">#</a> 현대식 결혼식</h3>
+<ul>
+<li>폐백 : 신부가 시댁 어른들께 첫인사 올리는 의례</li>
+<li>순서 : 부모 -&gt; 조부모 -&gt; 백부내외 -&gt; 숙부내외 -&gt; 형제</li>
+<li>들러리 : 형제 자매, 신랑신부의 친구들, 친척, 화동</li>
+</ul>
+<h3 id="장례-첫날" tabindex="-1"><a class="header-anchor" href="#장례-첫날" aria-hidden="true">#</a> 장례 첫날</h3>
+<ul>
+<li>임종</li>
+<li>수시</li>
+<li>발상 : 초상이 났음을 외부에 알리고 상례를 시작함을 말한다</li>
+<li>부고</li>
+</ul>
+<h3 id="장례-둘째날" tabindex="-1"><a class="header-anchor" href="#장례-둘째날" aria-hidden="true">#</a> 장례 둘째날</h3>
+<ul>
+<li>염습</li>
+<li>입관</li>
+<li>영좌 설치</li>
+<li>성복</li>
+<li>조문</li>
+</ul>
+<h3 id="장례-셋째날" tabindex="-1"><a class="header-anchor" href="#장례-셋째날" aria-hidden="true">#</a> 장례 셋째날</h3>
+<ul>
+<li>발인 : 영구가 집을 떠나는 절차, 발인제를 지낸다</li>
+<li>운구</li>
+<li>하관</li>
+<li>성분(봉분) : 관을 완전히 덮은 후, 흙을 쌓아 올려 잔디를 입힌다</li>
+<li>위령제(성분제) : 묘소 앞에 영좌를 모시고 제사를 올린다</li>
+</ul>
+<h3 id="장례-후-제의" tabindex="-1"><a class="header-anchor" href="#장례-후-제의" aria-hidden="true">#</a> 장례 후 제의</h3>
+<ol>
+<li>반우제</li>
+<li>삼우제</li>
+<li>사십구제</li>
+<li>백일제</li>
+</ol>
+<h3 id="제례" tabindex="-1"><a class="header-anchor" href="#제례" aria-hidden="true">#</a> 제례</h3>
+<ol>
+<li>기제사 : 돌아가신 부모님과 조부모님을 기리는 제사, 밤 11시~새벽 1시</li>
+<li>차례 : 명절날 아침, 촛불을 밝히지 않는다</li>
+<li>시제사 : 기제를 모시지 않은 조상을 모시는 제사</li>
+</ol>
+<h3 id="차례상" tabindex="-1"><a class="header-anchor" href="#차례상" aria-hidden="true">#</a> 차례상</h3>
+<ul>
+<li>1열 : 수저, 잔, 떡국, 시루떡</li>
+<li>2열 : 전, 육적, 소적, 전, 어적</li>
+<li>3열 : 육탕, 소탕, 어탕</li>
+<li>4열 : 포, 나물, 간장, 나박김치, 식혜</li>
+<li>5열 : 과일한과</li>
+<li>좌포우혜 : 왼쪽 포, 우측 식혜</li>
+<li>어동육서 : 생선 동, 고기 서</li>
+<li>두동미서 : 머리 동, 꼬리 서</li>
+<li>조율이시 : 대추, 밤, 배, 감</li>
+<li>복숭아, '치'자 생선 XXX</li>
+<li>고춧가루, 마늘 양념 사용 X</li>
+<li>진설의 순서 : 시접, 잔반을 올린 뒤에 1열부터 놓는다</li>
+<li>설에는 떡국 추석에는 송편, 기제사는 밥을 올린다</li>
+<li>식혜, 탕, 면은 건더기를 사용한다</li>
+</ul>
+<h3 id="부정청탁-금지" tabindex="-1"><a class="header-anchor" href="#부정청탁-금지" aria-hidden="true">#</a> 부정청탁 금지</h3>
+<h3 id="금품수수-금지-1" tabindex="-1"><a class="header-anchor" href="#금품수수-금지-1" aria-hidden="true">#</a> 금품수수 금지</h3>
+<ul>
+<li>식사비 3만원, 선물 5만원, 경조사비 5만원, 금품 100만원</li>
+</ul>
+<h3 id="저작권" tabindex="-1"><a class="header-anchor" href="#저작권" aria-hidden="true">#</a> 저작권</h3>
+<h3 id="무행동-방식주의-우리나라의-저작권법" tabindex="-1"><a class="header-anchor" href="#무행동-방식주의-우리나라의-저작권법" aria-hidden="true">#</a> 무행동 방식주의 (우리나라의 저작권법)</h3>
+<ul>
+<li>저작물은 창작하는 동시에 발생하는 것이다</li>
+<li>저작권의 발생은 어떠한 절차나 행도방식을 요하지 않는다</li>
+<li>조건 ; 자신만의 표현 방식으로 독자적으로 표현할 것</li>
+</ul>
+<h3 id="방식주의-우리나라의-특허권" tabindex="-1"><a class="header-anchor" href="#방식주의-우리나라의-특허권" aria-hidden="true">#</a> 방식주의 (우리나라의 특허권)</h3>
+<ul>
+<li>기술 공개의 대가로 독점권을 부여함으로써 발명의욕을 고취함</li>
+<li>조건 : 이미 알려진 기술이 아니어야하고 산업에 이용 가능한 기술일 것</li>
+</ul>
+<h3 id="저작인격권" tabindex="-1"><a class="header-anchor" href="#저작인격권" aria-hidden="true">#</a> 저작인격권</h3>
+<ul>
+<li>공표권, 성명표시권, 동일성유지권</li>
+</ul>
+<h3 id="저작재산권" tabindex="-1"><a class="header-anchor" href="#저작재산권" aria-hidden="true">#</a> 저작재산권</h3>
+<ul>
+<li>복제권, 공연권, 공중송신권, 전시권, 배포권, 대여권, 2차 저작물 작성권</li>
+</ul>
+<h3 id="저작인접권" tabindex="-1"><a class="header-anchor" href="#저작인접권" aria-hidden="true">#</a> 저작인접권</h3>
+<ul>
+<li>저작물의 전달자로서의 역할을 하는 자에게 부여되는 권리</li>
+</ul>
+<h3 id="예산-생활-1" tabindex="-1"><a class="header-anchor" href="#예산-생활-1" aria-hidden="true">#</a> 예산 생활</h3>
+<ul>
+<li>희소성의 원칙 : 우리가 가진 재화는 무한하지 않다</li>
+<li>소비가치관 : 우선순위에서 어떤 품목을 우선시할 것인가에 대한 각자의 신념</li>
+<li>가처분소득 = 총 소득 - 비소비지출 (세금, 국민연금, 건강보험)</li>
+</ul>
+<h3 id="윤리적소비" tabindex="-1"><a class="header-anchor" href="#윤리적소비" aria-hidden="true">#</a> 윤리적소비</h3>
+<ul>
+<li>소비자가 물건을 구매할때 가격과 품질뿐만아니라 사회와 환경에 미치는 영향을 고려해야 한다는 것</li>
+<li>친환경 소비, 상거래 소비윤리(사업자와 거래할때 정해진 계약의 의무를 지키는 일), 로컬푸드 소비, 공정무역 상품 구매, 기부와 나눔</li>
+</ul>
+<h3 id="크라우드-펀딩-1" tabindex="-1"><a class="header-anchor" href="#크라우드-펀딩-1" aria-hidden="true">#</a> 크라우드 펀딩</h3>
+<ul>
+<li>리워드형, 기부형, 대출형, 투자형</li>
+</ul>
+<h3 id="사회적-기업-1" tabindex="-1"><a class="header-anchor" href="#사회적-기업-1" aria-hidden="true">#</a> 사회적 기업</h3>
+<ul>
+<li>일자리제공현, 사회서비스제공형, 혼합형, 지역사회 공헌형, 기타형</li>
+</ul>
+<h3 id="포도주-라벨" tabindex="-1"><a class="header-anchor" href="#포도주-라벨" aria-hidden="true">#</a> 포도주 라벨</h3>
+<ul>
+<li>와인이름, 생산지, 와이너리 이름, 양조장 설립년도, 당도</li>
+</ul>
+<h3 id="와인잔의-종류" tabindex="-1"><a class="header-anchor" href="#와인잔의-종류" aria-hidden="true">#</a> 와인잔의 종류</h3>
+<ul>
+<li>보르도, 부르고뉴, 화이트와인 잔, 스파클링와인 잔</li>
+</ul>
+<h3 id="파티에서-와인을-따르는-매너" tabindex="-1"><a class="header-anchor" href="#파티에서-와인을-따르는-매너" aria-hidden="true">#</a> 파티에서 와인을 따르는 매너</h3>
+<ul>
+<li>남성 호스트가 먼저 테이스팅</li>
+<li>상석에 앉은 여성 -&gt; 시계방향 -&gt; 반대방향 남성</li>
+</ul>
+<h3 id="여러가지-양주" tabindex="-1"><a class="header-anchor" href="#여러가지-양주" aria-hidden="true">#</a> 여러가지 양주</h3>
+<ul>
+<li>브랜디 : 증류한 포도주, 40도~42도</li>
+<li>위스키 : 곡주를 증류한 술</li>
+<li>보드카 : 3 無(무색, 무취, 무미), 아주 차게하여 한번에 마심</li>
+<li>데킬라 : 용설란의 즙에 설탕 넣고 발효, 40도~60도</li>
+</ul>
+<h3 id="중국" tabindex="-1"><a class="header-anchor" href="#중국" aria-hidden="true">#</a> 중국</h3>
+<ul>
+<li>많이 마시도록 권함, 첨잔문화</li>
+</ul>
+<h3 id="일본" tabindex="-1"><a class="header-anchor" href="#일본" aria-hidden="true">#</a> 일본</h3>
+<ul>
+<li>이자카야, 자기 주량만큼, 첨잔 방식, 한손으로, 와리깡</li>
+</ul>
+<h3 id="프랑스" tabindex="-1"><a class="header-anchor" href="#프랑스" aria-hidden="true">#</a> 프랑스</h3>
+<ul>
+<li>식전 주를 작은 잔에 마심</li>
+<li>백포도주, 앙트레(전채요리) 제공</li>
+<li>적포도주, 본 식사</li>
+<li>커피, 코냑</li>
+</ul>
+<h3 id="한국-음식" tabindex="-1"><a class="header-anchor" href="#한국-음식" aria-hidden="true">#</a> 한국 음식</h3>
+<ul>
+<li>발효 및 저장 식품의 발달
+<ul>
+<li>우리나라의 5대 발효식품 : 장류, 김치, 식초류, 해류, 주류</li>
+</ul>
+</li>
+<li>절식 (명절음식), 시식(계절음식)</li>
+</ul>
+<h3 id="중국의-식사예절" tabindex="-1"><a class="header-anchor" href="#중국의-식사예절" aria-hidden="true">#</a> 중국의 식사예절</h3>
+<ul>
+<li>큰 접시의 음식을 나누어 먹는다</li>
+<li>주빈 우선 : 주빈 앞에 놓고 술도 주빈의 의사에 따라서</li>
+<li>스푼은 탕을 먹을때만 사용, 밥이나 탕이 담긴 그릇은 들고 먹는다, 사용한 숟가락은 뒤집어 놓는다</li>
+<li>회전식탁 : 예의 상 같이 돌려준다</li>
+</ul>
+<h3 id="프랑스에서-금기시-되는-행동" tabindex="-1"><a class="header-anchor" href="#프랑스에서-금기시-되는-행동" aria-hidden="true">#</a> 프랑스에서 금기시 되는 행동</h3>
+<ol>
+<li>코를 훌쩍</li>
+<li>몸이 닿았을 때 사과를 하지 않는 행동</li>
+<li>식당에서 육성으로 직원을 부르는 행동</li>
+<li>외모에 대한 얘기</li>
+<li>모르는 사람과 눈이 마주치는 것</li>
+</ol>
+<h3 id="프랑스-대표-음식" tabindex="-1"><a class="header-anchor" href="#프랑스-대표-음식" aria-hidden="true">#</a> 프랑스 대표 음식</h3>
+<ul>
+<li>바게트</li>
+<li>크로와상</li>
+<li>에스까르고</li>
+<li>푸아그라</li>
+<li>크레프</li>
+</ul>
+<h3 id="매너와-에티켓" tabindex="-1"><a class="header-anchor" href="#매너와-에티켓" aria-hidden="true">#</a> 매너와 에티켓</h3>
+<ul>
+<li>매너(예의) : 상황에 따라 다르게 표현 가능</li>
+<li>에티켓(범절) : 형식과 절차를 중요시함</li>
+</ul>
+<h3 id="동양의-매너-1" tabindex="-1"><a class="header-anchor" href="#동양의-매너-1" aria-hidden="true">#</a> 동양의 매너</h3>
+<ul>
+<li>5덕 : 인의예지신</li>
+<li>5륜 : 군신유의, 붕우유신, 장유유서, 부부유별, 부자유친</li>
+</ul>
+<h3 id="회사직급" tabindex="-1"><a class="header-anchor" href="#회사직급" aria-hidden="true">#</a> 회사직급</h3>
+<ul>
+<li>사장 전무 이사 부장 차장 대리 주임 사원</li>
+</ul>
+<h3 id="여성의-큰절-1" tabindex="-1"><a class="header-anchor" href="#여성의-큰절-1" aria-hidden="true">#</a> 여성의 큰절</h3>
+<ul>
+<li>허리 45, 굴신례 15</li>
+</ul>
+<h3 id="여성의-평절-1" tabindex="-1"><a class="header-anchor" href="#여성의-평절-1" aria-hidden="true">#</a> 여성의 평절</h3>
+<ul>
+<li>허리 30, 굴신례 30</li>
+</ul>
+<h3 id="출산-1" tabindex="-1"><a class="header-anchor" href="#출산-1" aria-hidden="true">#</a> 출산</h3>
+<ul>
+<li>삼칠일 (21일)</li>
+<li>남자아이 : 고추, 숯, 솔잎, 딸: 숯, 솔잎</li>
+</ul>
+<h3 id="나이별" tabindex="-1"><a class="header-anchor" href="#나이별" aria-hidden="true">#</a> 나이별</h3>
+<ul>
+<li>20세(약관), 30세(이립), 40세(불혹), 50세(지천명), 60세(이순), 61세(환갑), 62세(진갑)</li>
+<li>66세(미수), 70세(고희), 80세(산수), 90세(졸수), 99세(백수), 100세(상수)</li>
+</ul>
+<h3 id="전통-혼례" tabindex="-1"><a class="header-anchor" href="#전통-혼례" aria-hidden="true">#</a> 전통 혼례</h3>
+<ol>
+<li>의혼 : 양가가 중매인을 통해 서로의 의사를 조정</li>
+<li>앞놀이</li>
+<li>신랑 입장</li>
+<li>전안례 : 신부어머님께 기러기</li>
+<li>초례청 : 신랑과 신부 입장</li>
+<li>교배례</li>
+<li>합근례</li>
+</ol>
+<ul>
+<li>함 : 혼서지, 청홍채단, 물목기, 예물 등</li>
+<li>함진애비</li>
+<li>납폐 : 신랑쪽에서 혼서와 채단, 예물을 함에 담아 보내는 것</li>
+<li>봉채떡 : 신부측에서 함을 받기위해 준비한 음식</li>
+</ul>
+<h3 id="장례" tabindex="-1"><a class="header-anchor" href="#장례" aria-hidden="true">#</a> 장례</h3>
+<ul>
+<li>첫째날 : 임종, 수시, 사망증명서, 발상, 부고</li>
+<li>둘째날 : 염습, 입관, 영좌 설치, 성복, 조문</li>
+<li>셋째날 : 발인, 운구, 하관, 성분(봉분), 위령제</li>
+</ul>
+<h3 id="장례-후-제의-1" tabindex="-1"><a class="header-anchor" href="#장례-후-제의-1" aria-hidden="true">#</a> 장례 후 제의</h3>
+<ul>
+<li>반우제</li>
+<li>삼우제</li>
+<li>사십구제</li>
+<li>백일제</li>
+</ul>
+<h3 id="제례-1" tabindex="-1"><a class="header-anchor" href="#제례-1" aria-hidden="true">#</a> 제례</h3>
+<ol>
+<li>기제사</li>
+<li>차례</li>
+<li>시제사</li>
+</ol>
+<h1 id="차례상-1" tabindex="-1"><a class="header-anchor" href="#차례상-1" aria-hidden="true">#</a> 차례상</h1>
+<ul>
+<li>좌포우혜</li>
+<li>어동육서</li>
+<li>두동미서</li>
+<li>조율이시 : 대추, 밤, 배, 감</li>
+</ul>
+<h1 id="신위" tabindex="-1"><a class="header-anchor" href="#신위" aria-hidden="true">#</a> 신위</h1>
+<ul>
+<li>현(나타날 현)</li>
+<li>관계 (아버지:고, 어머니:비, 할아버지:조고, 할머니:조비)</li>
+<li>이름</li>
+<li>신위</li>
+</ul>
+<h3 id="금품수수-금지-2" tabindex="-1"><a class="header-anchor" href="#금품수수-금지-2" aria-hidden="true">#</a> 금품수수 금지</h3>
+<ul>
+<li>식사비(3만원), 선물(5만원), 경조사비(5만원), 금품(100만원)</li>
+</ul>
+<h3 id="저작권법-1" tabindex="-1"><a class="header-anchor" href="#저작권법-1" aria-hidden="true">#</a> 저작권법</h3>
+<ul>
+<li>
+<p>저작권 : 창작자가 가지는 권리</p>
+</li>
+<li>
+<p>저작물 : 사람의 사상이나 감정을 일정한 형식에 담아, 이를 다른 사람들이 느끼고 깨달을 수 있도록 표현한 것</p>
+</li>
+<li>
+<p>무행동 방식주의 (저작권법)</p>
+</li>
+<li>
+<p>행동 방식주의 (특허권)</p>
+</li>
+<li>
+<p>법적 보호를 받는 저작물이 되는 요건</p>
+<ol>
+<li>독창성이 있어야 한다</li>
+<li>다른 사람이 느껴서 알 수 있을 정도로 외부에 표현되어야 한다</li>
+</ol>
+</li>
+<li>
+<p>저작 인격권</p>
+<ul>
+<li>저작자의 명예와 인격적 이익을 보호하기 위한 권리</li>
+<li>공표권, 성명표시권, 동일성 유지권</li>
+</ul>
+</li>
+<li>
+<p>저작재산권</p>
+<ul>
+<li>저작물을 어떤 방법으로 이용하느냐에 따른 권리</li>
+<li>복제권, 공연권, 공중송신권, 전시권, 배포권, 대여권</li>
+</ul>
+</li>
+<li>
+<p>저작인접권</p>
+<ul>
+<li>저작물의 전달자로서의 역할을 하는 자에게 부여되는 권리</li>
+</ul>
+</li>
+</ul>
+<h3 id="예산-생활-2" tabindex="-1"><a class="header-anchor" href="#예산-생활-2" aria-hidden="true">#</a> 예산 생활</h3>
+<ul>
+<li>희소성의 원칙</li>
+<li>소비가치관</li>
+<li>가처분 소득 = 총소득 - 비소비지출</li>
+<li>에산 : 일정 기간 동안의 기대 수입에 기초한 지출 계획</li>
+</ul>
+<h3 id="여러가지-양주-1" tabindex="-1"><a class="header-anchor" href="#여러가지-양주-1" aria-hidden="true">#</a> 여러가지 양주</h3>
+<ul>
+<li>브랜디 : 증류한 포도주</li>
+<li>위스키 : 곡류를 증류한 술</li>
+<li>보드카 : 3 無</li>
+<li>데킬라 : 용설란의 즙</li>
+</ul>
+<h3 id="우리나라-지역별-김치-종류" tabindex="-1"><a class="header-anchor" href="#우리나라-지역별-김치-종류" aria-hidden="true">#</a> 우리나라 지역별 김치 종류</h3>
+<ul>
+<li>평안도 : 백김치, 가지김치, 소고기 육수 사용</li>
+<li>강원도 : 오징어김치, 더덕김치, 채소와 해물 사용</li>
+<li>서울경기도 : 보쌈김치, 오이소박이, 새우젓, 조기젓 사용</li>
+<li>충청도 : 나박김치, 호박김치, 순하고 구수한 맛</li>
+<li>경상도 : 부침김치, 깻잎김치, 진한 젓갈 맛, 자극적이고 매움</li>
+<li>전라도 : 고들빼기, 나주동치미, 다양한 젓갈과 해산물로 깊은 맛</li>
+<li>제주도 : 전복김치, 적은 양념으로 재료의 원래 맛을 살림</li>
+</ul>
+<h3 id="프랑스-코스요리-1" tabindex="-1"><a class="header-anchor" href="#프랑스-코스요리-1" aria-hidden="true">#</a> 프랑스 코스요리</h3>
+<ol>
+<li>아페리티프 (식전주)</li>
+<li>앙트레 / 오흐 되브흐(오르되브르)</li>
+<li>쁠라</li>
+<li>프로마쥬</li>
+<li>디저트</li>
+<li>커피/차</li>
+</ol>
+<h3 id="프랑스-대표음식" tabindex="-1"><a class="header-anchor" href="#프랑스-대표음식" aria-hidden="true">#</a> 프랑스 대표음식</h3>
+<ol>
+<li>바게트 : 밀가루 + 물 + 소금 + 이스트</li>
+<li>크로와상 : 바게트 재료 + 설탕 + 버터 + 붐ㄴ유</li>
+<li>에스까르고 : 식용달팽이</li>
+<li>푸아그라 : 지방이 많은 거위의 간</li>
+</ol>
+<h3 id="절식-명절음식" tabindex="-1"><a class="header-anchor" href="#절식-명절음식" aria-hidden="true">#</a> 절식 (명절음식)</h3>
+<h3 id="시식-계절음식" tabindex="-1"><a class="header-anchor" href="#시식-계절음식" aria-hidden="true">#</a> 시식 (계절음식)</h3>
+<h3 id="회사-직급" tabindex="-1"><a class="header-anchor" href="#회사-직급" aria-hidden="true">#</a> 회사 직급</h3>
+<ul>
+<li>사장 전무 이사 부장 차장 과장 대리 주임 사원</li>
+</ul>
+<h3 id="세계-각-국의-인사법" tabindex="-1"><a class="header-anchor" href="#세계-각-국의-인사법" aria-hidden="true">#</a> 세계 각 국의 인사법</h3>
+<ul>
+<li>인도 : 나마스테 : 나는 당신에게 인사합니다</li>
+<li>중동 : 앗사람 알라이쿰</li>
+<li>중국 : 손 흔들기, 공수</li>
+<li>태국 : 와이, 사와디캅</li>
+</ul>
+<h3 id="나이별-생일-명칭" tabindex="-1"><a class="header-anchor" href="#나이별-생일-명칭" aria-hidden="true">#</a> 나이별 생일 명칭</h3>
+<ul>
+<li>20:약관 30:이립 40:불혹 50:지천명 60:이순 61:환갑 62:진갑 70:고희 80: 신수 88:미수 90:졸수 99:백수 100:산수</li>
+</ul>
+<h3 id="전통혼례-1" tabindex="-1"><a class="header-anchor" href="#전통혼례-1" aria-hidden="true">#</a> 전통혼례</h3>
+<ol>
+<li>의혼</li>
+<li>앞놀이</li>
+<li>신랑입장</li>
+<li>전안례</li>
+<li>초례청</li>
+<li>교배례</li>
+<li>합근례</li>
+</ol>
+<ul>
+<li>함 : 청홍채단, 혼서지, 예물, 물목기</li>
+<li>함진애비</li>
+<li>납폐 : 신랑 쪽에서 혼서지랑 채단, 예물을 함에 담아 보내는 행위</li>
+<li>봉채떡 : 함을 받기 위해 신부 집에서 준비하는 음식</li>
+</ul>
+<h3 id="장례-1" tabindex="-1"><a class="header-anchor" href="#장례-1" aria-hidden="true">#</a> 장례</h3>
+<ol>
+<li>임종 수시 사망증명서 발상 부고</li>
+<li>염습 입관 영좌 설치 성복 조문</li>
+<li>발인 운구 하관 성분 위령제</li>
+</ol>
+<h3 id="장례-후-제의-2" tabindex="-1"><a class="header-anchor" href="#장례-후-제의-2" aria-hidden="true">#</a> 장례 후 제의</h3>
+<ul>
+<li>반우제 : 집으로 돌아와 영혼을 집에 맞아들이는 행사</li>
+<li>삼우제 : 묘소에서 장례를 치른지 3일째 되는 날에 드리는 제사</li>
+<li>사십구제 : 장례일로부터 49일째 되는 날에 지내는 제사</li>
+<li>백일제 : 장례 후 백일쩨 되는 날에 지내는 제사</li>
+</ul>
+<h3 id="제례-2" tabindex="-1"><a class="header-anchor" href="#제례-2" aria-hidden="true">#</a> 제례</h3>
+<ol>
+<li>기제사</li>
+<li>차례</li>
+<li>시제사</li>
+</ol>
+<h3 id="차례상-2" tabindex="-1"><a class="header-anchor" href="#차례상-2" aria-hidden="true">#</a> 차례상</h3>
+<ol>
+<li>수저 잔 떡국 시루떡</li>
+<li>전 육적 소적 전 어적</li>
+<li>육탕 소탕 어탕</li>
+<li>포 나물 간장 나박김치 식혜</li>
+<li>과일 한과</li>
+</ol>
+<ul>
+<li>어동육서</li>
+<li>두동미서</li>
+<li>조율이시 : 대추 밤 배 감</li>
+</ul>
+<h3 id="저작권법-2" tabindex="-1"><a class="header-anchor" href="#저작권법-2" aria-hidden="true">#</a> 저작권법</h3>
+<ul>
+<li>1957년 우리나라 저작권법 제정</li>
+<li>1987년 국제 시대의 비난으로 저작권법 개정</li>
+<li>1996년 베른 협약 가입</li>
+<li>무행동방식주의</li>
+<li>방식주의</li>
+<li>저작인격권</li>
+<li>저작재산권</li>
+<li>저작인접권</li>
+</ul>
+<h3 id="프랑스-요리" tabindex="-1"><a class="header-anchor" href="#프랑스-요리" aria-hidden="true">#</a> 프랑스 요리</h3>
+<ul>
+<li>아페리티프</li>
+<li>오르되브르/앙트레</li>
+<li>쁠라</li>
+<li>프로마쥬</li>
+<li>디저트</li>
+<li>차/코냑/커피</li>
+</ul>
+<h3 id="차례상-3" tabindex="-1"><a class="header-anchor" href="#차례상-3" aria-hidden="true">#</a> 차례상</h3>
+<ol>
+<li>수저, 잔, 떡국, 시루떡</li>
+<li>전, 육적, 소적, 전, 어적</li>
+<li>육탕, 소탕, 어탕</li>
+<li>포, 나물, 간장, 나박김치, 식혜</li>
+<li>과일, 한과</li>
+</ol>
+<h3 id="" tabindex="-1"><a class="header-anchor" href="#" aria-hidden="true">#</a> .</h3>
+<ul>
+<li>
+<p>20:약관 30:이립 40:불혹 50:지천명 60:이순 61:환갑 62:진갑 70:고희</p>
+</li>
+<li>
+<p>80:상수 88:미수 90:졸수 99:백수 100: 상수</p>
+</li>
+<li>
+<p>관례, 계례</p>
+</li>
+<li>
+<p>백일잔치 : 백설기</p>
+</li>
+<li>
+<p>의혼, 앞놀이, 신랑입장, 전아례, 초례청, 교배례, 합근례</p>
+</li>
+<li>
+<p>함, 오곡주머니, 청홍채단, 혼서지, 물목기, 예물</p>
+</li>
+<li>
+<p>납폐, 봉채떡</p>
+</li>
+<li>
+<p>폐백</p>
+</li>
+<li>
+<p>임종 수시 사망증명서 발상 초상</p>
+</li>
+<li>
+<p>염습 입관 영좌 설치 성복 조문</p>
+</li>
+<li>
+<p>발인, 운구, 하관, 성분, 위령제</p>
+</li>
+<li>
+<p>반우제, 삼우제, 사십구제, 백일제</p>
+</li>
+<li>
+<p>제례의 종류 : 기제사, 차례, 시제사</p>
+</li>
+<li>
+<p>조문 : 방명록 서명 -&gt; 분향과 헌화 재배(큰절2) 조문(평절1) 부의금 전달</p>
+</li>
+<li>
+<p>1열 : 수저, 잔, 떡국, 시루떡</p>
+</li>
+<li>
+<p>2열 : 전, 육적, 소적, 전, 어적</p>
+</li>
+<li>
+<p>3열 : 육탕, 소탕, 어탕</p>
+</li>
+<li>
+<p>4열 : 포, 나물, 간장, 나박김치, 식혜</p>
+</li>
+<li>
+<p>5열 : 과일, 한과</p>
+</li>
+<li>
+<p>좌포우혜, 어동육서, 두동미서, 조율이시</p>
+</li>
+<li>
+<p>고, 비, 조고, 조비</p>
+</li>
+<li>
+<p>1957, 1967, 1987 : 베른 협약</p>
+</li>
+<li>
+<p>무행동 방식주의 (우리나라의 저작권법)</p>
+</li>
+<li>
+<p>방식주의 (우리나라의 특허권)</p>
+</li>
+<li>
+<p>저작인격권</p>
+</li>
+<li>
+<p>저작재산권</p>
+</li>
+<li>
+<p>저작인접권</p>
+</li>
+<li>
+<p>보르도 와인 페스티벌 : 2년에 1번 6월</p>
+</li>
+</ul>
+<h1 id="object-oriented-programming" tabindex="-1"><a class="header-anchor" href="#object-oriented-programming" aria-hidden="true">#</a> Object-Oriented-Programming</h1>
+<h3 id="polymorhpism" tabindex="-1"><a class="header-anchor" href="#polymorhpism" aria-hidden="true">#</a> Polymorhpism</h3>
+<ol>
+<li>Function overloading</li>
+<li>Function overriding</li>
+</ol>
+<h3 id="dynamic-cast" tabindex="-1"><a class="header-anchor" href="#dynamic-cast" aria-hidden="true">#</a> Dynamic cast</h3>
+<div class="language-c++ line-numbers-mode" data-ext="c++"><pre v-pre class="language-c++"><code>if(Developer* developer = dynamic_cast&lt;Developer*&gt;(employee)) {
+    std::cout &lt;&lt; devloper-&gt;GetInfo() &lt;&lt; std::endl;
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
+<li>dynamic dispatch를 사용하기 위한 조건
+<ol>
+<li>함수는 virtual로 정의되어야 한다</li>
+<li>포인터(*)나 참조(&amp;) 객체에서 호출되어야 한다</li>
+</ol>
+</li>
+</ul>
+<h3 id="override-키워드" tabindex="-1"><a class="header-anchor" href="#override-키워드" aria-hidden="true">#</a> <i>override</i> 키워드</h3>
+<ol>
+<li>코드를 직관적으로 보이게한다</li>
+<li>실수를 줄인다
+<ol>
+<li>overriding non-virtual functions</li>
+<li>overriding non-existing functions</li>
+</ol>
+</li>
+</ol>
+<h3 id="dynamic-dispatch의-원리" tabindex="-1"><a class="header-anchor" href="#dynamic-dispatch의-원리" aria-hidden="true">#</a> Dynamic dispatch의 원리</h3>
+<ul>
+<li>VPTR (virtual pointer) : 객체가 생성될 때 멤버변수의 형태로 존재</li>
+<li>VTABLE : 클래스별로 정적 배열의 형태로 존재</li>
+</ul>
+<h3 id="abstract-class" tabindex="-1"><a class="header-anchor" href="#abstract-class" aria-hidden="true">#</a> Abstract class</h3>
+<ul>
+<li>pure virtual function : &quot; =0 &quot;</li>
+</ul>
+<h3 id="polymorphic-class" tabindex="-1"><a class="header-anchor" href="#polymorphic-class" aria-hidden="true">#</a> Polymorphic class</h3>
+<ul>
+<li>적어도 한개 이상의 virtual function을 선언하거나 상속받는 클래스</li>
+</ul>
+<h3 id="virtual-destructor" tabindex="-1"><a class="header-anchor" href="#virtual-destructor" aria-hidden="true">#</a> virtual destructor</h3>
+<ul>
+<li>부모의 destructor를 virtual로 함으로써 자식 destructor도 호출해준다</li>
+</ul>
+<h3 id="multiple-inheritance" tabindex="-1"><a class="header-anchor" href="#multiple-inheritance" aria-hidden="true">#</a> Multiple inheritance</h3>
+<ul>
+<li>상속 순서가 바뀌면 Destructor의 호출 순서도 바뀐다</li>
+</ul>
+<h3 id="diamond-problem" tabindex="-1"><a class="header-anchor" href="#diamond-problem" aria-hidden="true">#</a> Diamond problem</h3>
+<ul>
+<li>중복되는 변수나 함수를 사용하려고하면 컴파일 에러</li>
+</ul>
+<h3 id="design-pattern" tabindex="-1"><a class="header-anchor" href="#design-pattern" aria-hidden="true">#</a> Design pattern</h3>
+<ul>
+<li>Singleton</li>
+<li>Builder : builder 객체 분리, builder는 원래 객체의 friend</li>
+<li>Prototype : clone함수는 부모에서는 pure virtual, 자식에서 구현</li>
+<li>Abstract Factory
+<ul>
+<li>비슷한 객체들을 만드는 공장 클래스 생성</li>
+<li>부모 가구공장 클래스 (polymorphic(</li>
+<li>-&gt; 자식 공장1(현대적디자인), 자식 공장2 (고전 디자인)</li>
+</ul>
+</li>
+<li>Adapter
+<ul>
+<li>서로 호환되지 않는 두 라이브럴 모듈을 연결하기 위해 사용</li>
+</ul>
+</li>
+<li>Bridge
+<ul>
+<li>abstract class와 이를 구현하는 class로 구성</li>
+<li>abstract class를 이용해 다양한 변화에 적응</li>
+</ul>
+</li>
+<li>Composite
+<ul>
+<li>하나의 부모와 하위 여러 자식들을 통해 Tree모양 형성</li>
+<li>객체를 만들어 부모클래스 자료형에 저장한다</li>
+<li>-&gt; 모든 자식들에 대해 일관적으로 사용 가능</li>
+</ul>
+</li>
+<li>Facade
+<ul>
+<li>복잡한 인터페이스들 앞에 간단한 인터페이스 생성</li>
+<li>의존적인 모듈에 업데이트가 필요하다면 해당 모듈만 업데이트하도록 구현</li>
+</ul>
+</li>
+<li>Proxy
+<ul>
+<li>third-party 모듈과 client 사이에 사용</li>
+<li>third-party 모듈이 노출되지 않음 -&gt; 보안 향상</li>
+<li>중간에서 입맛대로 조절 가능</li>
+</ul>
+</li>
+</ul>
+<h3 id="stl" tabindex="-1"><a class="header-anchor" href="#stl" aria-hidden="true">#</a> STL</h3>
+<ul>
+<li>
+<p>vector : 메모리가 모자라면 새로운 곳으로 이사 -&gt; performance overhead</p>
+</li>
+<li>
+<p>list : random access X</p>
+</li>
+<li>
+<p>deque : pointer 연산 X, push front O</p>
+</li>
+<li>
+<p>set : unique elements, functor</p>
+</li>
+<li>
+<p>map : key-value, functor</p>
+</li>
+<li>
+<p>compare functor (acending sort example)</p>
+<div class="language-cpp line-numbers-mode" data-ext="cpp"><pre v-pre class="language-cpp"><code><span class="token keyword">class</span> <span class="token class-name">IntCompare</span> <span class="token punctuation">{</span>
+<span class="token keyword">public</span><span class="token operator">:</span>
+  <span class="token keyword">int</span> <span class="token keyword">operator</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">(</span><span class="token keyword">const</span> <span class="token keyword">int</span><span class="token operator">&amp;</span> x<span class="token punctuation">,</span> <span class="token keyword">const</span> <span class="token keyword">int</span><span class="token operator">&amp;</span> y<span class="token punctuation">)</span> <span class="token keyword">const</span> <span class="token punctuation">{</span>
+      <span class="token keyword">return</span> x <span class="token operator">&lt;</span> y<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+<span class="token keyword">class</span> <span class="token class-name">NameCompare</span> <span class="token punctuation">{</span>
+<span class="token keyword">public</span><span class="token operator">:</span>
+  <span class="token keyword">int</span> <span class="token keyword">operator</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">(</span><span class="token keyword">const</span> std<span class="token double-colon punctuation">::</span>string<span class="token operator">&amp;</span> x<span class="token punctuation">,</span> <span class="token keyword">const</span> std<span class="token double-colon punctuation">::</span>string<span class="token operator">&amp;</span> y<span class="token punctuation">)</span> <span class="token keyword">const</span><span class="token punctuation">{</span>
+      <span class="token keyword">return</span> x<span class="token punctuation">.</span><span class="token function">compare</span><span class="token punctuation">(</span>y<span class="token punctuation">)</span> <span class="token operator">&lt;</span> <span class="token number">0</span><span class="token punctuation">)</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></li>
+</ul>
+</div></template>
+
+
