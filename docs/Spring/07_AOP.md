@@ -1,4 +1,3 @@
-# Spring
 
 ### AOP (Aspect Oriented Programming)
 
@@ -80,4 +79,38 @@ public class ExeTimeAspect {
 		}
 	}
 }
+```
+
+### 프록시 생성 방식
+```java
+@EnableAspectJAutoProxy(proxyTargetClass=true)
+```
+```java
+// Before
+Calculator cal = ctx.getBean("calculator", Calculator.class);
+// After
+RecCalculator cal = ctx.getBean("calculator", RecCalculator.class);
+```
+* proxyTargetClass 속성을 지정하여 인터페이스가 아닌 자바 클래스를 상속받아 프록시를 생성할 수 있다.
+
+### Advice 적용 순서
+```java
+@Aspect
+@Order(2)
+public class CacheAspect {...}
+```
+* @Order annotation을 이용하여 적용순서를 지정할 수 있다.
+* 숫자가 높은 것이 먼저 실행되는 것 같다..
+
+### @Around의 Pointcut 설정
+```java
+@Around("execution(public * chap07 ..*(..))")
+public Object execute(...) {...}
+```
+* @Pointcut publicTarget() 메소드를 사용하지 않을 수 있다.
+
+### @Pointcut 재사용
+```java
+@Around("ExeTimeAspect.publicTarget()")
+public Object execute(...) {...}
 ```
