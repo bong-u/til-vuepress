@@ -1,11 +1,14 @@
 {
   "name": "til",
-  "type": "module",
-  "dependencies": {
-    "vuepress": "2.0.0-beta.45"
-  },
+  "version": "0.0.1",
+  "description": "",
+  "repository": "/til",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
   }
 }
