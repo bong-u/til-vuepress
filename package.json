@@ -1,7 +1,7 @@
 {
   "name": "til",
   "version": "0.0.1",
-  "description": "",
+  "description": "Today I Learned",
   "repository": "/til",
   "scripts": {
     "dev": "vuepress dev docs",
