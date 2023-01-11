@@ -1,0 +1,29 @@
+$bgColor = #0d1117;
+$scrollColor = #5F8D4E;
+
+html,
+.theme-container > *,
+div.links { 
+    background-color : $bgColor !important;
+}
+input {
+    //color : $bgColor !important;
+    background-color: $borderColor !important;
+}
+ul.suggestions {
+    background-color : $bgColor !important;
+}
+
+body::-webkit-scrollbar,
+aside::-webkit-scrollbar {
+    width: 10px;
+}
+body::-webkit-scrollbar-thumb,
+aside::-webkit-scrollbar-thumb {
+    background-color: $scrollColor;
+    border-radius: 10px;
+}
+body::-webkit-scrollbar-track,
+aside::-webkit-scrollbar-track {
+    background-color: $bgColor;
+}
