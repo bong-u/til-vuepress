@@ -36,9 +36,6 @@ module.exports = {
   // Ref：https://v1.vuepress.vuejs.org/config/#head
   head: [
     ["link", { rel: "icon", href: "avata.png" }],
-    // ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-    // ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    // ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
 
   // Ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
@@ -48,7 +45,6 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    nav: [],
     sidebar: sidebarItems,
   },
 
