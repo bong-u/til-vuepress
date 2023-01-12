@@ -76,6 +76,8 @@ jdbcTemplate.update(new PreparedStatementCreator() {
     > jdbc:mysql://localhost/spring5fs?속성1=값1&속성2=값2..."
 
 ## Transaction 처리
+### Transaction
+> 데이터베이스의 상태를 변화시키기 위해 수행하는 **작업의 단위**
 ### 배경
 * 쿼리 두 개를 실행하는데 만약 2번째 쿼리에서 오류가 발생했을때
 * 1번째 쿼리 실행 이전 상태로 되돌리는 (롤백) 작업이 필요하다
@@ -105,3 +107,48 @@ public void changePassword(String email, String oldPwd, String newPwd) {
     memberDao.update(member);
 }
 ```
+## 트랜잭션 관련 로그 메시지 출력
+### logback.xml
+```xml
+<?xml version="1.0" encoding="UTF-8">
+
+<configuration>
+    <appender name="stdout" class="chqos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d %5p %c{2} - %m%n</pattern>
+        </encoder>
+    </appender>
+    <root level="INFO">
+        <appender-ref ref="stdout" />
+    </root>
+
+    <logger name="org.springframework.jdbc" level="DEBUG" />
+</configuration>
+```
+* 로그 출력하는 것도 배워보았다.
+
+## Transaction 전파
+```java
+public class SomeService {
+    private AnyService anyService;
+
+    @Transactional
+    public void some() {
+        anyService.any();
+    }
+
+    public void setAnyService(AnyService as) {
+        anyService = as;
+    }
+}
+
+public class AnyService {
+    @Transactional
+    public void any() { ... }
+}
+```
+* some메소드가 any메소드를 호출했다. 위 코드에서는 메소드 둘 다 @Transactional이 붙어있지만 만약 붙어있지 않으면 어떻게 될까?
+* 이렇게 메소드 간 호출이 발생할 때 트랜잭션이 유지되는 것을 **트랜잭션 전파**라고 한다.
+  
+* @Transactional annotation에 사용할 수 있는 속성 중 propagation이 트랜잭션 전파타입을 지정한다.
+* 기본값 : REQUIRED : 현재 진행중인 트랜잭션이 존재하면 해당 트랜잭션 사용, 존재하지 않으면 새로운 트랜잭션을 생성한다
