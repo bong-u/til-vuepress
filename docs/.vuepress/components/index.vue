@@ -1,8 +1,8 @@
 <template>
-  <section>
+  <article>
     <h4>Studied for {{ countOfDays }} days in the last year</h4>
     <div id="calendar_container"></div>
-  </section>
+  </article>
 </template>
 
 <script>
@@ -19,8 +19,8 @@ export default {
 </script>
 
 <style>
-main {
-  padding: 40px;
+article {
+  max-width: 810px;
 }
 #calendar_container {
   display: flex;
