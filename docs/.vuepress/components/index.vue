@@ -1,17 +1,33 @@
 <template>
-    <h1>hello</h1>
+  <section>
+    <h4>Studied for {{ countOfDays }} days in the last year</h4>
+    <div id="calendar_container"></div>
+  </section>
 </template>
 
 <script>
-    // import { getLog } from './GitModule.js';
-    // const getLog = require('./GitModule');
-    import getLog from './GitModule.js';
-    export default {
-        created() {
-            console.log(getLog());
-        },
-        methods : {
-        }
-    }
-        
+import git_calendar from "./GitCalendar.js";
+export default {
+  data: () => ({
+    countOfDays: git_calendar.getCountOfDays(),
+  }),
+  mounted() {
+    const container = document.getElementById("calendar_container");
+    container.appendChild(git_calendar.createSVG(document));
+  },
+};
 </script>
+
+<style>
+main {
+  padding: 40px;
+}
+#calendar_container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  overflow: hidden;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+}
+</style>
