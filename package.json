@@ -4,11 +4,14 @@
   "description": "Today I Learned",
   "repository": "/til",
   "scripts": {
-    "dev": "vuepress dev docs",
+    "dev": "node GitLog.js | vuepress dev docs",
     "build": "vuepress build docs"
   },
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.9.8"
+  },
+  "dependencies": {
+    "simple-git": "^3.15.1"
   }
 }
