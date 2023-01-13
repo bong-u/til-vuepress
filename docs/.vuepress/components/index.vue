@@ -23,6 +23,7 @@ article {
   max-width: 810px;
 }
 #calendar_container {
+  padding: 10px 15px;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
