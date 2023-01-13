@@ -54,18 +54,36 @@ const processSVG = (document, svg) => {
   }
 };
 
+const addDayTag = (document, svg) => {
+  const dayData = [
+    { label: "Mon", yPos: 25 + 13 * 2 },
+    { label: "Wed", yPos: 25 + 13 * 4 },
+    { label: "Fri", yPos: 25 + 13 * 6 },
+  ];
+  let dayTag = null;
+
+  for (let day of dayData) {
+    dayTag = document.createElementNS(svgns, "text");
+    dayTag.setAttribute("y", day["yPos"]);
+    dayTag.textContent = day["label"];
+    dayTag.setAttribute("style", `font-size:12px; fill:#c9d1d9`);
+    svg.appendChild(dayTag);
+  }
+};
+
 const createSVG = (document) => {
   const svg = document.createElementNS(svgns, "svg");
+  const xBase = 30;
   const yBase = 30;
   let g = null,
     rect = null;
 
-  svg.setAttribute("width", 53 * 14);
+  svg.setAttribute("width", xBase + 53 * 14);
   svg.setAttribute("height", yBase + 13 * 7);
   for (let i = 0; i < 53; i++) {
     for (let j = 0; j < 7; j++) {
       rect = document.createElementNS(svgns, "rect");
-      rect.setAttribute("x", i * 14);
+      rect.setAttribute("x", xBase + i * 14);
       rect.setAttribute("y", yBase + j * 13);
       rect.setAttribute("rx", 2);
       rect.setAttribute("ry", 2);
@@ -76,6 +94,7 @@ const createSVG = (document) => {
     }
   }
   processSVG(document, svg);
+  addDayTag(document, svg);
   return svg;
 };
 
