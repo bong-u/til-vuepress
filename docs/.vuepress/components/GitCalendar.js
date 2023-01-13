@@ -1,16 +1,11 @@
 import commit_dates from "./commit_dates.json";
 
+let cur_date = null;
 const svgns = "http://www.w3.org/2000/svg";
 const getDateStr = (date) => {
   return date.toISOString().split("T")[0];
 };
 
-const last_year = new Date(
-  new Date().setFullYear(new Date().getFullYear() - 1)
-);
-
-const cur_date = last_year;
-cur_date.setDate(last_year.getDate() - last_year.getDay() + 1);
 const monthText = [
   "Jan",
   "Feb",
@@ -26,6 +21,14 @@ const monthText = [
   "Dec",
 ];
 
+const init = () => {
+  const last_year = new Date(
+    new Date().setFullYear(new Date().getFullYear() - 1)
+  );
+  cur_date = new Date(new Date().setFullYear(new Date().getFullYear() - 1));
+  cur_date.setDate(last_year.getDate() - last_year.getDay() + 1);
+};
+
 const getColor = (date) => {
   let color = "";
   if (!commit_dates[date]) color = "#161b22";
@@ -39,7 +42,6 @@ const getColor = (date) => {
 
 const processSVG = (document, svg) => {
   let monthTag = null;
-
   for (let rect of svg.children) {
     if (cur_date.getDate() == 1) {
       monthTag = document.createElementNS(svgns, "text");
@@ -102,4 +104,4 @@ const getCountOfDays = () => {
   return Object.keys(commit_dates).length;
 };
 
-export default { createSVG, getCountOfDays };
+export default { init, createSVG, getCountOfDays };

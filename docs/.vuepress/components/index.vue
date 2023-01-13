@@ -11,6 +11,9 @@ export default {
   data: () => ({
     countOfDays: git_calendar.getCountOfDays(),
   }),
+  created() {
+    git_calendar.init();
+  },
   mounted() {
     const container = document.getElementById("calendar_container");
     container.appendChild(git_calendar.createSVG(document));
