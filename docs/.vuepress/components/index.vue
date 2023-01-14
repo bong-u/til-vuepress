@@ -6,17 +6,20 @@
 </template>
 
 <script>
-import git_calendar from "./GitCalendar.js";
+import Calendar from "./git_calendar.js";
 export default {
   data: () => ({
-    countOfDays: git_calendar.getCountOfDays(),
+    countOfDays: 0,
   }),
-  created() {
-    git_calendar.init();
-  },
+  created() {},
   mounted() {
     const container = document.getElementById("calendar_container");
-    container.appendChild(git_calendar.createSVG(document));
+    const calendar = new Calendar(this.$page.commit_dates);
+
+    this.countOfDays = calendar.getCountOfDays();
+
+    const svg = calendar.createSVG(document);
+    container.appendChild(svg);
   },
 };
 </script>
