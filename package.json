@@ -4,7 +4,7 @@
   "description": "Today I Learned",
   "repository": "/til",
   "scripts": {
-    "dev": "node GitLog.js | vuepress dev docs",
+    "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
   "license": "MIT",

@@ -1,7 +1,9 @@
 const execSync = require("child_process").execSync;
 
 const get_commit_dates = async () => {
-  const git_log_str = await execSync("git log --format=%at").toString().trim();
+  const git_log_str = await execSync("git log --format=%at -- docs")
+    .toString()
+    .trim();
   const git_log_arr = git_log_str.split("\n");
   let commit_dates = {};
   let date = "";
