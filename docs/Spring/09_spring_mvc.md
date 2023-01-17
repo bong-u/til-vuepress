@@ -34,3 +34,20 @@ public class HelloController {
 ### URL접속해도 해당 jsp파일이 나오지 않는 문제
 * vscode에서 community server connector라는 extension을 통해 tomcat을 띄워서 할려고 한다
 * 특정 jsp를 감지했는지, serving하는지에 대한 로그가 없어 되는건지 알 수가 없다
+
+### web.xml; lineNumber: 1; columnNumber: 37; A pseudo attribute name is expected. 
+```
+// before
+<?xml version="1.0" encoding="UTF-8">
+// after
+<?xml version="1.0" encoding="UTF-8"?>
+```
+* 물음표를 빼먹어서 생기는 오류이다
+
+### 404: Not Found
+```java
+// before
+registry.jsp("/WEB-INF/view", ".jsp");
+// after
+registry.jsp("/WEB-INF/view/", ".jsp");
+```
