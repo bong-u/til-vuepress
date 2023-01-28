@@ -6,17 +6,20 @@ html,
 div.links { 
     background-color : $bgColor !important;
 }
+// 검색 input 색
 input {
-    //color : $bgColor !important;
     background-color: $borderColor !important;
 }
+// 검색 제안 배경 색
 ul.suggestions {
     background-color : $bgColor !important;
 }
+// 검색 제안 : focus 배경 색
 .search-box .suggestion.focused {
     background-color: #000000 !important;
 }
 
+// 스크롤 스타일
 body::-webkit-scrollbar,
 aside::-webkit-scrollbar {
     width: 10px;
@@ -29,4 +32,8 @@ aside::-webkit-scrollbar-thumb {
 body::-webkit-scrollbar-track,
 aside::-webkit-scrollbar-track {
     background-color: $bgColor;
+}
+
+tr:nth-child(2n) {
+    background-color : #2E3133;
 }
