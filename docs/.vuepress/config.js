@@ -27,7 +27,7 @@ dirs.forEach((dir) => {
 
 module.exports = {
   title: "BONG-U's TIL",
-  base: "/til/",
+  base: "/til-vuepress/",
 
   description: description,
 
