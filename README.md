@@ -1,6 +1,6 @@
-# [Today I Learned](https://bong-u.github.io/til/)
+# [Today I Learned](https://bong-u.github.io/til-vuepress/)
 
-![example workflow](https://github.com/bong-u/til/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/bong-u/til-vuepress/actions/workflows/main.yml/badge.svg)
 
 ### Commit Convention
 | Type          | Description |
